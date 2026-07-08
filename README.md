@@ -156,9 +156,8 @@ This repository helps me:
 * [x] Linux basics
 * [x] Directory navigation
 * [x] File creation and file operations
-* [x] Basic help commands
-* [ ] Permissions
-* [ ] Users and groups
+* [x] Permissions *(completed, needs a quick revision)*
+* [x] Users and groups *(completed, needs a quick revision)*
 * [ ] Processes
 * [ ] Package management
 * [ ] Networking commands
